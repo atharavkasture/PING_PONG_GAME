@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pong Game</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div id="game-rules">
+        <h1 style="text-align: center;">Pong Game Rules</h1>
+        <ul>
+            <li>Use 'W' and 'S' keys to move the left paddle up and down.</li>
+            <li>Use the 'I' and 'K' arrow keys to move the right paddle up and down.</li>
+            <li>The game starts with the ball moving in a random direction.</li>
+            <li>Click the START button to start/resume the game</li>
+            <li>Click the PAUSE button to stop/pause the game</li>
+        </ul>
+
+        <button id="start-button">START/RESUME</button>
+        <button id="stop-button">STOP/PAUSE</button>
+
+    </div>
+    <div id="game-container">
+        <canvas id="pongCanvas" width="800" height="600"></canvas>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>

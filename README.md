@@ -20,3 +20,13 @@
     4. Stop the Game: Click the "STOP" button.
 6. Contributing
     Contributions are welcome! If you have ideas or find issues, feel free to fork the repository and submit a pull request.
+7. Screenshots
+    1. Before clicking on START/RESUME.
+    ![Screenshot (100)](https://github.com/atharavkasture/PING_PONG_GAME/assets/173930797/6b897ee7-df44-4d42-887e-89e4a778b149)
+
+    ![Screenshot (101)](https://github.com/atharavkasture/PING_PONG_GAME/assets/173930797/fde1581c-7d07-4ade-b241-6cfa1ee42be9)
+    2. After clicking on START/RESUME.
+    ![Screenshot (102)](https://github.com/atharavkasture/PING_PONG_GAME/assets/173930797/233a7952-6619-4231-ab77-2e480458d75c)
+
+    ![Screenshot (103)](https://github.com/atharavkasture/PING_PONG_GAME/assets/173930797/465e0b78-ea1c-42a3-9d6a-7de95bfb9017)
+
